@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.xml
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.Data.Text.dll
+C:\Users\Pablo\Documents\Controles equipo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.Data.Text.xml
