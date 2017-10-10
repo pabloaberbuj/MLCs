@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication1
+﻿namespace Calculo_Independiente_IMRT
 {
     partial class Form1
     {

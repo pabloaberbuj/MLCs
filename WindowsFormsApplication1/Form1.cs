@@ -13,18 +13,18 @@ using MathNet.Numerics.LinearAlgebra;
 using MathNet.Numerics.Statistics;
 using MathNet.Numerics.Data.Text;
 
-namespace WindowsFormsApplication1
+namespace Calculo_Independiente_IMRT
 {
     public partial class Form1 : Form
     {
-        Variables vr = new Variables();
-        NumberFormatInfo nfi = new CultureInfo("en-US", false).NumberFormat;
+       // Variables vr = new Variables();
+        //NumberFormatInfo nfi = new CultureInfo("en-US", false).NumberFormat;
         public Form1()
         {
             InitializeComponent();
         }
         
-        private void extraer(string[] fid)
+        /*private void extraer(string[] fid)
         {
            vr.Apellido = Metodos.extraerstring(vr.fid, 2);
            vr.Nombre = Metodos.extraerstring(vr.fid, 3);
@@ -50,14 +50,15 @@ namespace WindowsFormsApplication1
             vr.Fluencia = Metodos.CorreccionMLC(vr.Fl,vr.resol);
             MessageBox.Show(Convert.ToString(vr.Fluencia.Enumerate().Sum()));
 
-        }
+        }*/
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
             openFileDialog1.Filter = "Archivos mlc(.mlc)|*.mlc|All Files (*.*)|*.*";
             openFileDialog1.ShowDialog();
-            vr.fid = File.ReadAllLines(openFileDialog1.FileName);
-            extraer(vr.fid);
+            string[] fid = Extraer.cargar(openFileDialog1.FileName);
+            Campo campo = Extraer.extraerCampo(fid);
+            MessageBox.Show("");
         }
     }
 }

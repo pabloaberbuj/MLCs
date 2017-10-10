@@ -8,7 +8,7 @@ using System.Globalization;
 using MathNet.Numerics.LinearAlgebra;
 using MathNet.Numerics.Statistics;
 
-namespace WindowsFormsApplication1
+namespace Calculo_Independiente_IMRT
 {
     public class Variables
     {
