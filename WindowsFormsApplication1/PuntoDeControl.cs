@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Calculo_Independiente_IMRT
 {
-    public class Subcampo
+    public class PuntoDeControl
     {
         public string nombre { get; set; }
-        public double indice { get; set; }
+        public double indice { get; set; } 
         public double[] posicionesA { get; set; }
         public double[] posicionesB { get; set; }
     }

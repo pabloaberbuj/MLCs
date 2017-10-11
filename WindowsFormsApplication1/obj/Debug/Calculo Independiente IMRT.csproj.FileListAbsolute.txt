@@ -1,13 +1,12 @@
+C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.exe.config
+C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.exe
+C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.pdb
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.Data.Text.dll
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.xml
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.Data.Text.xml
-C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo Independiente IMRT.csprojResolveAssemblyReference.cache
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo_Independiente_IMRT.Form1.resources
-C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo Independiente IMRT.csproj.GenerateResource.Cache
-C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.exe.config
-C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.exe
-C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\bin\Debug\Calculo_Independiente_IMRT.pdb
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo_Independiente_IMRT.Properties.Resources.resources
+C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo Independiente IMRT.csproj.GenerateResource.Cache
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo_Independiente_IMRT.exe
 C:\Users\Pablo\Source\Repos\MLCs\WindowsFormsApplication1\obj\Debug\Calculo_Independiente_IMRT.pdb

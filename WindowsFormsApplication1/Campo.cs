@@ -8,8 +8,8 @@ namespace Calculo_Independiente_IMRT
 {
     public class Campo
     {
-        public int numSubCampos { get; set; }
-        public List<Subcampo> subCampos {get;set;}
+        public int numPC { get; set; }
+        public List<PuntoDeControl> puntosDeControl {get;set;}
         public double [,] mapaFluencia { get; set; }
     }
 }

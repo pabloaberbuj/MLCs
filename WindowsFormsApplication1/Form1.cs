@@ -58,7 +58,22 @@ namespace Calculo_Independiente_IMRT
             openFileDialog1.ShowDialog();
             string[] fid = Extraer.cargar(openFileDialog1.FileName);
             Campo campo = Extraer.extraerCampo(fid);
-            MessageBox.Show("");
+            double[] mlc = Extraer.cargarMLC(Configuracion.fileMLC);
+            double[,] fluencia = Calcular.fluenciaCampo(campo, Configuracion.tamMatriz, Configuracion.numPuntos, Configuracion.factorTransmision, mlc);
+            using (var sw = new StreamWriter("outputText.txt"))
+            {
+                for (int i = 0; i < fluencia.GetLength(0)-1; i++)
+                {
+                    for (int j = 0; j < fluencia.GetLength(0) - 1; j++)
+                    {
+                        sw.Write(fluencia[i, j] + " ");
+                    }
+                    sw.Write("\n");
+                }
+                sw.Flush();
+                sw.Close();
+            }
+            MessageBox.Show("Listo");
         }
     }
 }
